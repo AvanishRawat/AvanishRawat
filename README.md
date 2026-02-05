@@ -1,16 +1,15 @@
 # 👋 Hi, I'm Avanish Rawat
 
-🎯 **Aspiring Data Scientist** with hands-on experience building machine learning models, data analysis pipelines, and intelligent Python applications.  
-I’m especially interested in **practical ML**, **model interpretability**, and turning data into real, usable insights.
+🎯 **Aspiring Data Scientist** with hands-on experience building machine learning models, data-driven Python applications, and practical projects from end to end.
 
-I enjoy learning by building — every project here reflects skills I’ve actually applied, not just studied.
+I focus on **applied machine learning**, clear problem-solving, and turning data into meaningful insights. Everything on this profile reflects work I’ve personally built and understood.
 
 ---
 
-## 🔍 What I’m Focused On
-- Machine Learning & applied data science
+## 🔍 Current Focus
+- Applied Machine Learning & Data Science
 - End-to-end ML workflows (data → model → evaluation)
-- Writing clean, understandable, and reusable Python code
+- Writing clean, readable, and maintainable Python code
 
 ---
 
@@ -29,33 +28,33 @@ Jupyter Notebook, Git, Docker, Linux
 
 ## 🚀 Featured Projects
 
-### 🧠 **Customer Churn Prediction**
+### 🧠 Customer Churn Prediction
 **Machine learning pipeline to predict customer churn using structured data**
 
-- Data preprocessing & feature engineering  
+- Data preprocessing and feature engineering  
 - Model training and evaluation  
-- Practical application of ML concepts  
+- Practical application of ML fundamentals  
 
 🔗 https://github.com/AvanishRawat/ml-churn-prediction
 
 ---
 
-### 🗣️ **Jarvis Voice Assistant**
+### 🗣️ Jarvis Voice Assistant
 **Python-based voice assistant inspired by AI assistants**
 
-- Speech recognition and automation  
-- Command execution using Python libraries  
-- Demonstrates Python integration and system interaction  
+- Speech recognition and command handling  
+- Task automation using Python libraries  
+- Demonstrates system interaction and integrations  
 
 🔗 https://github.com/AvanishRawat/JarvisVoiceAssistant
 
 ---
 
-### 🎯 **Number Guesser Game**
+### 🎯 Number Guesser Game
 **Interactive Python CLI game**
 
-- Logic-driven gameplay  
-- Clean control flow and user input handling  
+- Logic-based gameplay  
+- User input handling and control flow  
 - Simple project demonstrating strong Python fundamentals  
 
 🔗 https://github.com/AvanishRawat/NumberGuesserGame
@@ -63,18 +62,17 @@ Jupyter Notebook, Git, Docker, Linux
 ---
 
 ## 📈 What I’m Working Toward
-- Building more real-world ML projects with larger datasets  
-- Improving model interpretability and evaluation skills  
-- Strengthening software engineering foundations alongside data science
+- Building larger, real-world ML projects with richer datasets  
+- Improving model evaluation and interpretability  
+- Strengthening software engineering fundamentals alongside data science
 
 ---
 
-## 📫 Let’s Connect
-I’m always open to learning opportunities, collaborations, and internships.
-
-- 💼 LinkedIn: *https://www.linkedin.com/in/avanish-rawat/*
-- 📧 Email: *arawatd@gmail.com*
+## 📫 Contact
+📧 Email: arawatd@gmail.com 
+💼 LinkedIn: https://www.linkedin.com/in/avanish-rawat/
 
 ---
 
 ⭐ Thanks for visiting my GitHub!
+
