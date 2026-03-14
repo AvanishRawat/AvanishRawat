@@ -1,78 +1,67 @@
-# 👋 Hi, I'm Avanish Rawat
+# Hi, I'm Avanish Rawat
 
-🎯 **Aspiring Data Scientist** with hands-on experience building machine learning models, data-driven Python applications, and practical projects from end to end.
+ML/AI Engineer in training — building end-to-end AI systems spanning RAG pipelines,
+computer vision, multimodal analytics, and deep learning.
 
-I focus on **applied machine learning**, clear problem-solving, and turning data into meaningful insights. Everything on this profile reflects work I’ve personally built and understood.
-
----
-
-## 🔍 Current Focus
-- Applied Machine Learning & Data Science
-- End-to-end ML workflows (data → model → evaluation)
-- Writing clean, readable, and maintainable Python code
+📍 Jersey City, NJ · B.S. Data Science, NJIT (2027) · Seeking ML/AI internships
 
 ---
 
-## 🛠️ Technical Skills
+## Projects
 
-### 💻 Languages
-Python, C++, Java, C#
+### 🧠 Graph RAG AI Tutor
+Knowledge graph + RAG system that ingests course websites, PDFs, and YouTube transcripts,
+builds a NetworkX concept graph with prerequisite chains, and serves a Flask chat UI
+powered by a local Qwen2.5 LLM via Ollama.
 
-### 📊 Machine Learning & Data
-Scikit-learn, TensorFlow, Keras, Pandas, NumPy
+`Python` `NetworkX` `MongoDB` `Flask` `Ollama` `sentence-transformers`
 
-### 🧪 Tools & Platforms
-Jupyter Notebook, Git, Docker, Linux
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 Customer Churn Prediction
-**Machine learning pipeline to predict customer churn using structured data**
-
-- Data preprocessing and feature engineering  
-- Model training and evaluation  
-- Practical application of ML fundamentals  
-
-🔗 https://github.com/AvanishRawat/ml-churn-prediction
+🔗 [github.com/AvanishRawat/graph-rag-ai-tutor](https://github.com/AvanishRawat/graph-rag-ai-tutor)
 
 ---
 
-### 🗣️ Jarvis Voice Assistant
-**Python-based voice assistant inspired by AI assistants**
+### 🏀 Basketball Game Analytics
+Multimodal NBA analytics pipeline combining YOLOv8 player detection, Whisper speech
+transcription, DistilBERT QA, and pytesseract jersey OCR to classify 931 plays and
+generate timestamped HTML game reports.
 
-- Speech recognition and command handling  
-- Task automation using Python libraries  
-- Demonstrates system interaction and integrations  
+`Python` `YOLOv8` `Whisper` `DistilBERT` `OpenCV` `pytesseract`
 
-🔗 https://github.com/AvanishRawat/JarvisVoiceAssistant
-
----
-
-### 🎯 Number Guesser Game
-**Interactive Python CLI game**
-
-- Logic-based gameplay  
-- User input handling and control flow  
-- Simple project demonstrating strong Python fundamentals  
-
-🔗 https://github.com/AvanishRawat/NumberGuesserGame
+🔗 [github.com/AvanishRawat/basketball-game-analytics](https://github.com/AvanishRawat/basketball-game-analytics)
 
 ---
 
-## 📈 What I’m Working Toward
-- Building larger, real-world ML projects with richer datasets  
-- Improving model evaluation and interpretability  
-- Strengthening software engineering fundamentals alongside data science
+### 🐱🐶 CNN Image Classifier with Interpretability
+PyTorch CNN trained on 4,000 images with Grad-CAM and Occlusion Sensitivity
+interpretability, FGSM adversarial robustness testing, and Qdrant vector similarity search.
+
+`Python` `PyTorch` `Captum` `Qdrant` `scikit-learn` `HuggingFace`
+
+🔗 [github.com/AvanishRawat/cats-vs-dogs-cnn](https://github.com/AvanishRawat/cats-vs-dogs-cnn)
 
 ---
 
-## 📫 Contact
-📧 Email: arawatd@gmail.com 
-💼 LinkedIn: https://www.linkedin.com/in/avanish-rawat/
+### 📉 Customer Churn Prediction
+End-to-end ML pipeline on the Telco Churn dataset — EDA, preprocessing,
+logistic regression and random forest baselines with threshold tuning.
+
+`Python` `scikit-learn` `pandas` `Jupyter`
+
+🔗 [github.com/AvanishRawat/ml-churn-prediction](https://github.com/AvanishRawat/ml-churn-prediction)
 
 ---
 
-⭐ Thanks for visiting my GitHub!
+## Tech Stack
 
+**ML/AI** · PyTorch · YOLOv8 · Whisper · Captum · HuggingFace Transformers · Ollama · scikit-learn
+
+**Data & Search** · MongoDB · Qdrant · NetworkX · pandas · NumPy
+
+**Engineering** · Python · Docker · Flask · Git · Linux
+
+---
+
+## Contact
+
+📧 ar2668@njit.edu
+💼 [linkedin.com/in/avanish-rawat](https://linkedin.com/in/avanish-rawat)
