@@ -1,6 +1,6 @@
 # Hi, I'm Avanish Rawat
 
-ML/AI Engineer in training — building end-to-end AI systems spanning RAG pipelines,
+ML/AI Engineer | NJIT Data Science '27 — building end-to-end AI systems spanning RAG pipelines,
 computer vision, multimodal analytics, and deep learning.
 
 📍 Jersey City, NJ · B.S. Data Science, NJIT (2027) · Seeking ML/AI internships
@@ -30,7 +30,15 @@ generate timestamped HTML game reports.
 🔗 [github.com/AvanishRawat/basketball-game-analytics](https://github.com/AvanishRawat/basketball-game-analytics)
 
 ---
+### ⚽ Football Player Tracking
+YOLOv11n + DeepSORT pipeline that detects and persistently tracks players
+and the ball across 1,074 frames of football match video, maintaining
+consistent IDs through occlusions using Kalman filter motion prediction
+and ReID appearance embeddings.
+`Python` `YOLOv11` `DeepSORT` `OpenCV` `PyTorch`
+🔗 [github.com/AvanishRawat/football-player-tracking](https://github.com/AvanishRawat/football-player-tracking)
 
+---
 ### 🐱🐶 CNN Image Classifier with Interpretability
 PyTorch CNN trained on 4,000 images with Grad-CAM and Occlusion Sensitivity
 interpretability, FGSM adversarial robustness testing, and Qdrant vector similarity search.
@@ -38,6 +46,7 @@ interpretability, FGSM adversarial robustness testing, and Qdrant vector similar
 `Python` `PyTorch` `Captum` `Qdrant` `scikit-learn` `HuggingFace`
 
 🔗 [github.com/AvanishRawat/cats-vs-dogs-cnn](https://github.com/AvanishRawat/cats-vs-dogs-cnn)
+
 
 ---
 
@@ -49,8 +58,8 @@ logistic regression and random forest baselines with threshold tuning.
 
 🔗 [github.com/AvanishRawat/ml-churn-prediction](https://github.com/AvanishRawat/ml-churn-prediction)
 
----
 
+---
 ## Tech Stack
 
 **ML/AI** · PyTorch · YOLOv8 · Whisper · Captum · HuggingFace Transformers · Ollama · scikit-learn
